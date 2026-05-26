@@ -1,15 +1,15 @@
-```py
+```js
 import Developer from "gixweb";
 
 class AboutMe extends Developer {
   name = "Giselly Rocha";
-  field = "Back-end Developer & Data Scientist";
+  field = "Fullstack Developer";
   study_Course= "Análise e Desenvolvimento de Sistemas";
   location = "Remote Study";
 }
 
 class Skills extends Developer {
-  languages = ["Python, Java, JavaScript"];
+  languages = ["Java, JavaScript, Python"];
   libraries = ["React"];
   frameworks = ["NodeJS, Springboot"];
 }
